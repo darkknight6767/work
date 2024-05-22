@@ -1,3 +1,5 @@
 Hi I am Pavan Varma This is g1 file 
-I am learning devops
+I am learning devops and git
+
+Learning Linux also
 
